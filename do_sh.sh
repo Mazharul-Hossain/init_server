@@ -9,3 +9,6 @@ cd ~
 cd init_server
 
 sh opencv.sh
+
+cd ~
+
